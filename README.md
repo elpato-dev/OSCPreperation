@@ -46,3 +46,5 @@ https://www.offensive-security.com/metasploit-unleashed/file-inclusion-vulnerabi
 https://hack.technoherder.com/sensitive-linux-files/ --> sensitive Linux files
 
 https://erev0s.com/blog/encrypted-bind-and-reverse-shells-socat/ --> Socat shells
+
+https://www.darknet.org.uk/2014/12/insomniashell-asp-net-reverse-shell-bind-shell/
